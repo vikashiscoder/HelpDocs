@@ -1,0 +1,2 @@
+Issue : git clone is resulting in ssl issue due to self signed certificates
+Fix   : git config --global http.sslVerify false
